@@ -1,0 +1,14 @@
+{
+  "name": "tcpat",
+  "version": "1.0.0",
+  "description": "TCPAT - Trabalho de Conclusão Programação para Automação de Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "Surgek, Paloma",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
